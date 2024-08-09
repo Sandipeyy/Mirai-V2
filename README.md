@@ -7,7 +7,7 @@
 <h3 align="center">MiraiBot</h3>
 
 <p align="center">
-    A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.
+    A simple Facebook Messenger Bot made by me(Sandip Gurung).
     <br />
     <br />
     <a href="https://github.com/miraiPr0ject/miraiv2/issues">Report Bug</a>
